@@ -19,7 +19,7 @@ const INITIAL_STATE = {
 
 
 interface props {
-    children: JSX.Element | JSX.Element[]
+  children: JSX.Element | JSX.Element[]
 }
 
 
